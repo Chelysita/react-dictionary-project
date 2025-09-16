@@ -12,7 +12,7 @@ function App() {
         <main>
           <Dictionary />
         </main>
-        <footer className="text-center">
+        <footer className="text-center mt-5">
           This project was coded by Araceli Medina and it's{" "}
           <a
             href="https://github.com/Chelysita/react-dictionary-project.git"
