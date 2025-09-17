@@ -2,6 +2,7 @@
   text-align: left;
   display: flex;
   gap: 10px;
+  margin: 0;
 }
 ul {
   list-style: none;
