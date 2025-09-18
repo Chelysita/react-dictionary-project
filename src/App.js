@@ -14,7 +14,7 @@ function App() {
         <main>
           <Dictionary defaultkeyword="smile" />
         </main>
-        <footer className="text-center m-5">
+        <footer className="text-center mt-5">
           This project was coded by Araceli Medina and it's{" "}
           <a
             href="https://github.com/Chelysita/react-dictionary-project.git"
