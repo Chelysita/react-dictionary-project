@@ -12,7 +12,7 @@ function App() {
         </header>
 
         <main>
-          <Dictionary />
+          <Dictionary defaultkeyword="smile" />
         </main>
         <footer className="text-center m-5">
           This project was coded by Araceli Medina and it's{" "}
